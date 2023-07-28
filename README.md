@@ -1,3 +1,19 @@
+### Hi! Everyone, I'm Annapurna. 
+### I am an Aspiring Undergraduate Researcher. I am actively pursuing my interests in ML/AI, Software Development(DEV). 
+
+Alongside programming in Python, foundations: Data structures & Algorithms, CS Fundamentals, I'm also exploring the domains of: Web Dev, Data science, Cloud Computing, Cybersecurity & Networking.
+
+I Enjoy Reading, Music, Cycling in my freetime. Entrepreneurship & Startups, Finance & Economics, Personal Development and more.. are topics i find interesting to chat in general. 
+
+I have also been learning about Product Management (Ideation to Design,Development) working with Tech & Product teams, Partnerships at a early stage startup. I've taken on various responsibilities,actively involved in the Hiring process, Design, Marketing, Social Media & Content activities alongside my team members. 
+
+Problem Solving, Thinking & Building products! is something that's come to be very naturally of much interest to me.
+
+I'm always Up! for Discussing/Collaboration/Applied Learning on interesting Project ideas/Hackathons.  
+
+Looking Forward to making contributions & gaining great learning experiences here onwards!!
+
+
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
 <!--
