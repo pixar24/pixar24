@@ -1,4 +1,4 @@
-### Hi! Everyone, I'm Annapurna. 
+### Hi! Everyone,  
 ### I am an Aspiring Undergraduate Researcher. I am actively pursuing my interests in ML/AI, Software Development(DEV). 
 
 Alongside programming in Python, foundations: Data structures & Algorithms, CS Fundamentals, I'm also exploring the domains of: Web Dev, Data science, Cloud Computing, Cybersecurity & Networking.
